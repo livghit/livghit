@@ -6,4 +6,6 @@
 
 <!---
 MY REPO :D
+
+I am trying to learn git 
 --->
