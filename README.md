@@ -19,7 +19,7 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-![livghit stats](https://github-readme-stats.vercel.app/api?username=livghit&show_icons=true&count_private=true&theme=vue-dark)
+![livghit stats](https://github-readme-stats.vercel.app/api?username=livghit&show_icons=true&count_private=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=vue-dark)](https://github.com/livghit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=dracula)](https://github.com/livghit)
