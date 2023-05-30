@@ -32,6 +32,6 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 
 
 ![livghit stats](https://github-readme-stats.vercel.app/api?username=livghit&show_icons=true&count_private=true&theme=radical)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=radical)](https://github.com/livghit)
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
