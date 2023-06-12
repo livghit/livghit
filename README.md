@@ -17,8 +17,6 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 
 
 # 🌱 I’m currently learning
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
@@ -27,6 +25,8 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![SolidJS](https://img.shields.io/badge/-SolidJS-00C853?style=flat-square&logo=solid&logoColor=white)](https://www.solidjs.com/)
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=radical)](https://github.com/livghit)
