@@ -28,7 +28,7 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 
-
+![Livghits's GitHub stats](https://github-readme-stats.vercel.app/api?username=livghit&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=radical&layout=compact)](https://github.com/livghit)
 
 # 🧰 Curerently working on 
