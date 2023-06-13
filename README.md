@@ -33,7 +33,7 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 
 # 🧰 Curerently working on 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=livghit&repo=gopreter&title_color=D53B3B&theme=radical)](https://github.com/livghit/gopreter)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=livghit&repo=chatgpt-java&title_color=D53B3B&theme=radical)](https://github.com/livghit/chatgpt-java)
+
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=livghit&repo=go-boilerplate&title_color=D53B3B&theme=radical)](https://github.com/livghit/go-biolerpalte)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
