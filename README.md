@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" style ="transform:rotate(180deg);">
+
 # Hello everyone 🐙 🦋 👋
 
 Hey there! I'm @livghit, I am a student and a passionate programmer on a continuous journey of growth and improvement. I love all things tech-related and have a strong desire to excel in the world of programming. Through dedication and a growth mindset, I aim to push the boundaries of what I can achieve as a programmer. I understand that the path may be arduous at times, but I firmly believe that the effort and dedication are always worth it.
