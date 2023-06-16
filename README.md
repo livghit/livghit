@@ -29,6 +29,7 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![SolidJS](https://img.shields.io/badge/-SolidJS-00C853?style=flat-square&logo=solid&logoColor=white)](https://www.solidjs.com/)
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ![Livghits's GitHub stats](https://github-readme-stats.vercel.app/api?username=livghit&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&border_color=cc6698)
 
