@@ -31,8 +31,6 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-![Livghits's GitHub stats](https://github-readme-stats.vercel.app/api?username=livghit&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&border_color=cc6698)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=radical&layout=compact&border_color=cc6699)](https://github.com/livghit)
 
 # 🧰 Curerently working on 
