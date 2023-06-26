@@ -31,10 +31,4 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=radical&layout=compact&border_color=cc6699)](https://github.com/livghit)
-
-# 🧰 Curerently working on 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=livghit&repo=gopreter&title_color=D53B3B&theme=radical&border_color=cc6699)](https://github.com/livghit/gopreter)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=livghit&repo=go-boilerplate&title_color=D53B3B&theme=radical&border_color=cc6699)](https://github.com/livghit/go-boilerplate)
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
