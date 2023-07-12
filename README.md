@@ -32,3 +32,11 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=livghit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=livghit&theme=tokyonight&hide_border=false)<br/>
+
+
