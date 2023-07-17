@@ -18,7 +18,7 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 
 
-# 🌱 I’m currently learning
+# 🌱 I’m currently learning / improving
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
