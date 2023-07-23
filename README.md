@@ -2,7 +2,7 @@
 
 # Hello everyone 🐙 🦋 👋
 
-Hey there! I'm @livghit, I am a student and a passionate programmer on a continuous journey of growth and improvement. I love all things tech-related and have a strong desire to excel in the world of programming. Through dedication and a growth mindset, I aim to push the boundaries of what I can achieve as a programmer. I understand that the path may be arduous at times, but I firmly believe that the effort and dedication are always worth it.
+Hey there! I'm @livghit, I am a student and a passionate programmer on a continuous journey of growth and improvement. I love all things tech-related and have a strong desire to excel in the world of programming. Through dedication and a growth mindset, I aim to push the boundaries of what I can achieve as a programmer. I understand that the path may be hard at times, but I firmly believe that the effort and dedication are always worth it. So let`s start building !
 
 # 🔭I’m currently able to code with
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
