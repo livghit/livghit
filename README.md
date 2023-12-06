@@ -13,7 +13,7 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 
 <p>See my personal page at <a href="https://livghit.github.io/livghit-personal.github.io/" target="blank">livghit-personal.github.io</a> (Its a work in progress)</p>
 
-# 🔭I’m currently able to code<work-experience> with
+# 🔭I’m currently able to code /work-experience/ with
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white)](https://www.java.com)
@@ -24,9 +24,10 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Astro](https://img.shields.io/badge/-Astro-0D1117?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=python&logoColor=blue)](https://reactjs.org/)
 
 
-# 🌱 I’m currently learning / improving
+# 🌱 I’m playing around with 
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
