@@ -4,7 +4,7 @@
 
 <img src="dancing-gopher.gif" > 
 <p>
-  (GO ENJOYER , NVIM LOVER )
+  (GO ITS THE WAY)
 </p>
           
 
