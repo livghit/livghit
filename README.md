@@ -16,7 +16,6 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 # 🔭I’m currently able to code /work-experience/ with
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white)](https://www.java.com)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org)
