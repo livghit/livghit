@@ -13,7 +13,7 @@ Hey there! I'm @livghit, I am a student and a passionate programmer on a continu
 
 <p>See my personal page at <a href="https://livghit.github.io/" target="blank">livghit.github.io</a> (Its a work in progress build with astro)</p>
 
-# 🔭I’m currently able to code /work-experience/ with
+# 🔭I’m currently able to code / have work-experience with
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
