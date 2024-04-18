@@ -1,11 +1,5 @@
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-<img src="dancing-gopher.gif" > 
-<p>
-  (GO ITS THE WAY)
-</p>
-          
-
+         
 # 🔭I’m currently able to code / have work-experience with
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
@@ -31,14 +25,9 @@
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
-
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=livghit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=livghit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=livghit&theme=tokyonight&hide_border=false)<br/>
-
 
