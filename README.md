@@ -1,17 +1,10 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-# Hello everyone 🐙 👋  
-
 <img src="dancing-gopher.gif" > 
 <p>
   (GO ITS THE WAY)
 </p>
           
-
-
-Hey there! I'm @livghit, I am a student and a passionate programmer on a continuous journey of growth and improvement. I love all things tech-related and have a strong desire to excel in the world of programming. Through dedication and a growth mindset, I aim to push the boundaries of what I can achieve as a programmer. I understand that the path may be hard at times, but I firmly believe that the effort and dedication are always worth it. So let`s start building !
-
-<p>See my personal page at <a href="https://livghit.github.io/" target="blank">livghit.github.io</a> (Its a work in progress build with astro)</p>
 
 # 🔭I’m currently able to code / have work-experience with
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
